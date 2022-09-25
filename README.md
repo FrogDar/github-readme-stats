@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🏫  I'm a junior at Beijing University of Posts and Telecommunications.
-- 🔭  I'm quite busy currently (due to heavy schoolwork).
-- 🌱  I'm currently learning... learning nothing?
+- 🔭  I'm currently working on computer network.
+- 🌱  I'm currently learning DNS.
 - 📫  How to reach me: [sheeplin@bupt.edu.cn](mailto:sheeplin@bupt.edu.cn)
 
 <!--
