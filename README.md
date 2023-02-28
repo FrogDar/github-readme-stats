@@ -29,15 +29,16 @@ Here are some ideas to get you started:
 ### Some stats:
 
 <a href="https://github.com/FrogDar/FrogDar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrogDar&count_private=true&show_icons=true&show_icons=true&include_all_commits=true" />
-</a>
-</br>
-<a href="https://github.com/FrogDar/FrogDar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrogDar&layout=compact&langs_count=6&card_width=445" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrogDar&count_private=true&show_icons=true&show_icons=true&include_all_commits=true&card_width=495" />
+  </br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrogDar&layout=compact&langs_count=6&card_width=495" />
+  </br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=FrogDar&layout=compact" />
+  </br>
 </a>
 
-[![FrogDar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FrogDar&layout=compact)](https://github.com/FrogDar/FrogDar)
-
+<!-- [![FrogDar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FrogDar&layout=compact&card_width=445)](https://github.com/FrogDar/FrogDar)
+ -->
 <!--
 [![github stats](https://github-readme-stats.vercel.app/api?username=FrogDar&count_private=true&show_icons=true&theme=buefy&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
