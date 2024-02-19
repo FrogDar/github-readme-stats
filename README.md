@@ -20,27 +20,27 @@ Here are some ideas to get you started:
 -->
 
 <!--
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FrogDar&repo=smc_fan_util)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FrogDar&repo=my-hammerspoon-config)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FrogDar&repo=ege_based_painter_cpp)](https://github.com/anuraghazra/github-readme-stats)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=FrogDar&repo=Link-Link)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lin594&repo=smc_fan_util)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lin594&repo=my-hammerspoon-config)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lin594&repo=ege_based_painter_cpp)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=lin594&repo=Link-Link)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 ### Some stats:
 
-<a href="https://github.com/FrogDar/FrogDar">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrogDar&count_private=true&show_icons=true&show_icons=true&include_all_commits=true&card_width=495" />
+<a href="https://github.com/lin594/lin594">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lin594&count_private=true&show_icons=true&show_icons=true&include_all_commits=true&card_width=495" />
   </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrogDar&layout=compact&langs_count=6&card_width=495" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lin594&layout=compact&langs_count=6&card_width=495" />
   </br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=FrogDar&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lin594&layout=compact" />
   </br>
 </a>
 
-<!-- [![FrogDar's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=FrogDar&layout=compact&card_width=445)](https://github.com/FrogDar/FrogDar)
+<!-- [![lin594's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lin594&layout=compact&card_width=445)](https://github.com/lin594/lin594)
  -->
 <!--
-[![github stats](https://github-readme-stats.vercel.app/api?username=FrogDar&count_private=true&show_icons=true&theme=buefy&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=lin594&count_private=true&show_icons=true&theme=buefy&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrogDar&theme=buefy&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lin594&theme=buefy&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
 -->
