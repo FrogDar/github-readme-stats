@@ -3,7 +3,7 @@
 - 🏫  I'm a junior at Beijing University of Posts and Telecommunications.
 - 🔭  I'm currently working on computer network.
 - 🌱  I'm currently learning DDoS defense.
-- 📫  How to reach me: [sheeplin@bupt.edu.cn](mailto:sheeplin@bupt.edu.cn)
+- 📫  How to reach me: [lin.yan@bupt.edu.cn](mailto:lin.yan@bupt.edu.cn)
 
 <!--
 
